@@ -17,3 +17,23 @@ console.log(number1 - number2);
 console.log(number1 * number2);
 console.log(number1 / number2);
 console.log(number1 % number2);
+
+number1 = number1 +  1;
+console.log(number1);
+
+number1 ++;
+console.log(number1);
+
+number1 += 1;
+console.log(number1);
+
+number1 += 2;
+console.log(number1);
+
+number1 *= 2;
+console.log(number1);
+
+number1 /= 2;
+console.log(number1);
+
+

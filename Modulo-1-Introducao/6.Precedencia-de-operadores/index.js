@@ -4,4 +4,5 @@ let area = undefined;
 
 area = (base * altura) / 2;
 
+console.log(area.toFixed(1));
 console.log(area);
